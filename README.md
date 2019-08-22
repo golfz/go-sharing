@@ -1,1 +1,1 @@
-# go-sharing
+# เอกสารประกอบการบรรยาย Go Programming
